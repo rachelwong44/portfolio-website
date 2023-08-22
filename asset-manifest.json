@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/rachelwong44.github.io/static/css/main.fd22f7a8.css",
+    "main.js": "/rachelwong44.github.io/static/js/main.cabd66f5.js",
+    "static/media/Rachel_Wong_CV.pdf": "/rachelwong44.github.io/static/media/Rachel_Wong_CV.56954fc5d5848cd40fdd.pdf",
+    "index.html": "/rachelwong44.github.io/index.html",
+    "main.fd22f7a8.css.map": "/rachelwong44.github.io/static/css/main.fd22f7a8.css.map",
+    "main.cabd66f5.js.map": "/rachelwong44.github.io/static/js/main.cabd66f5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fd22f7a8.css",
+    "static/js/main.cabd66f5.js"
+  ]
+}
